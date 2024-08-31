@@ -49,6 +49,11 @@
   - The activity is in a many-to-many relationship with the employees.
 
 
+## ERD
+![SanadManagementSystemERD](https://github.com/user-attachments/assets/cfd6b159-e79b-4a86-998f-4d47154940a0)
+
+
+
 ## API Reference
 
 #### User API's
