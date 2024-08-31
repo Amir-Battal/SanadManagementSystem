@@ -21,6 +21,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#erd">ERD</a> •
   <a href="#api-reference">API Reference</a> •
   <a href="#run-locally">Run Locally</a> •
   <a href="#credits">Credits</a> •
